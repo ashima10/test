@@ -1,0 +1,49 @@
+[33mcommit 4528c6a9f43d0cb4aeacdba55c6a5feea9e97907[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 48d4008 66726f6
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:46:00 2018 +0000
+
+    final merge solved
+
+[33mcommit 48d4008ad241dbb8ca261df5b45faf739a8aa160[m
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:36:29 2018 +0000
+
+    b3
+
+[33mcommit 25f900e8940c2d81df54edc9e473fabb4e91dd5a[m
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:35:14 2018 +0000
+
+    created another file
+
+[33mcommit 66726f68f49a117de4372e84407a22e2fbf041e8[m[33m ([m[1;32mb1[m[33m)[m
+Merge: ff313b6 22b2903
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:33:03 2018 +0000
+
+    b1 conflict solved
+
+[33mcommit ff313b651782f1a78636aca23eb57ce056989b74[m
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:25:53 2018 +0000
+
+    3rd commit in b1
+
+[33mcommit 22b29032939877f539ad23948a8517d05de952bd[m[33m ([m[1;32mt1[m[33m)[m
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:15:59 2018 +0000
+
+    commiting in t1
+
+[33mcommit 406176bf50c2da4afaf07e2298f4faa40827eea2[m
+Author: ashima10 <ashigupta1018@gmail.com>
+Date:   Sat May 5 17:06:52 2018 +0000
+
+    commiting in b1
+
+[33mcommit dd4a16a58a1cf8bdfe1f9b0584539ed9c4e27665[m
+Author: root <root@ip-172-31-18-249.ap-south-1.compute.internal>
+Date:   Sat May 5 16:48:46 2018 +0000
+
+    commiting ash in master  C1
